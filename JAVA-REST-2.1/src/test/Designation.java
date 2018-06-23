@@ -1,0 +1,11 @@
+package test;
+
+public enum Designation {
+
+	SENIOR_SOFTWARE_ENGINEER,
+	SOFTWARE_ENGINEER,
+	INTERN,
+	TECHNICAL_LEAD,
+	SENIOR_TECHNICAL_LEAD,
+	MANAGER
+}
